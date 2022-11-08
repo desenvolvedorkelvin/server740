@@ -1,0 +1,1 @@
+mv theotxserver .. && chmod 777 -R ..
